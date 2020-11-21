@@ -2,9 +2,7 @@
 ![avatar](./u=987853997,2891149510&fm=26&gp=0.png)
 
 ## About me :octocat:
-hello everyone, I am Chinese, My name is Liu Kun, You can call me `Liu` and I am a web development engineer.
-
-Welcome to exchange technology with me. :stuck_out_tongue:
+Hello everyone, I am Chinese, My name is Liu Kun, You can call me `Liu`. Welcome to exchange technology with me. :stuck_out_tongue:
 
 ## Things I am passionate about :robot:
 
