@@ -15,7 +15,6 @@ Hello everyone, I am Chinese, My name is Liu Kun, You can call me `Liu`. Welcome
 ## Get in touch :coffee:
 
 - https://ogliu.com
-- https://og-liu.github.io
 
 ## Github Stats
 
