@@ -1,14 +1,6 @@
 ## About me :octocat:
 Hello everyone, I am Chinese, My name is Liu Kun, You can call me `Liu`. Welcome to exchange technology with me. :stuck_out_tongue:
 
-## Things I am passionate about :robot:
-
-- JavaScript
-- VueJS
-- Webpack
-- Typescript
-- Node
-
 ## Get in touch :coffee:
 
 - https://ogliu.com
