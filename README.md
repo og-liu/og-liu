@@ -1,5 +1,5 @@
 ## About me :octocat:
-Hello everyone, I am Chinese, My name is Liu Kun, You can call me `Liu`. Welcome to exchange technology with me. :stuck_out_tongue:
+Hello everyone, I am Chinese, You can call me `Liu`. Welcome to exchange technology with me. :stuck_out_tongue:
 
 ## Get in touch :coffee:
 
