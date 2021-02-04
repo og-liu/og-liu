@@ -3,22 +3,22 @@
 
 <h4 align="center">I am passionate about open source software and giving back to others.</h4>
 
-<h5 align="center">
-  <a href="https://www.npmjs.com/~og-liu" target="_blank">
+<p align="center">
+  <a href="https://www.npmjs.com/~og-liu">
     <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-1.5K-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
   </a>
-</h5>
+</p>
 
 <p align="center">
-  <a href="https://ogliu.com" target="_blank">
+  <a href="https://ogliu.com">
     <img alt="Blog" src="https://img.shields.io/badge/ogliu.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://mock.ogliu.com" target="_blank">
+  <a href="https://mock.ogliu.com">
     <img alt="Mock Data" src="https://img.shields.io/badge/mock data-ed4956?style=for-the-badge&logo=javascript&logoColor=ed4956&labelColor=24292e" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/og-liu?tab=repositories" target="_blank">
+  <a href="https://github.com/og-liu?tab=repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/-repositories-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
 </p>
