@@ -1,5 +1,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=og-liu&show_icons=true)
 
+<style>
+.Box-body {
+    padding: 0 !important;
+}
+</style>
+
 <!--
 **og-liu/og-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
