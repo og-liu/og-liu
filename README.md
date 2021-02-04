@@ -4,7 +4,7 @@
 <h4 align="center">I am passionate about open source software and giving back to others.</h4>
 
 <h5 align="center">
-  <a href="https://www.npmjs.com/~og-liu">
+  <a href="https://www.npmjs.com/~og-liu" target="_blank">
     <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-1.5K-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
   </a>
 </h5>
