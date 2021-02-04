@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ogliu.com">
+  <a href="https://ogliu.com" style="display: inline-block">
     <img alt="Blog" src="https://img.shields.io/badge/ogliu.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
