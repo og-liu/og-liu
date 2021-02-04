@@ -10,26 +10,17 @@
 </h5>
 
 <p align="center">
-
-  [comment]: <> (个人博客)
   <a href="https://ogliu.com">
     <img alt="Blog" src="https://img.shields.io/badge/ogliu.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
-
   <span>&nbsp;</span>
-
-  [comment]: <> (前端数据模拟平台)
   <a href="https://mock.ogliu.com">
     <img alt="Mock Data" src="https://img.shields.io/badge/mock data-ed4956?style=for-the-badge&logo=javascript&logoColor=ed4956&labelColor=24292e" />
   </a>
-
   <span>&nbsp;</span>
-
-  [comment]: <> (Github仓库)
   <a href="https://github.com/og-liu?tab=repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/-repositories-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
-
 </p>
 
 ---
