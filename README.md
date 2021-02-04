@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there, 👋 I'm Liu! 😎</h2>
 
-<h4 align="center">I am passionate about open source software and giving back to others.</h4>
+<p align="center">I am passionate about open source software and giving back to others.</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/~og-liu">
@@ -9,16 +9,14 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://ogliu.com">
+<p align="center" style="display: flex">
+  <a href="https://ogliu.com" style="display: block; margin: 0 5px;">
     <img alt="Blog" src="https://img.shields.io/badge/ogliu.com-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
-  <span>&nbsp;</span>
-  <a href="https://mock.ogliu.com">
+  <a href="https://mock.ogliu.com" style="display: block; margin: 0 5px;">
     <img alt="Mock Data" src="https://img.shields.io/badge/mock data-ed4956?style=for-the-badge&logo=javascript&logoColor=ed4956&labelColor=24292e" />
   </a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/og-liu?tab=repositories">
+  <a href="https://github.com/og-liu?tab=repositories" style="display: block; margin: 0 5px;">
     <img alt="Github Repositories" src="https://img.shields.io/badge/-repositories-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
 </p>
