@@ -25,11 +25,17 @@
 
 ---
 
-<details>
-  <summary>
-    <strong>👆 👉 Homepages and examples for GitHub repositories. 👇<strong>
-  </summary>
-  <br>
+[comment]: <> (<details>)
+
+[comment]: <> (  <summary>)
+
+[comment]: <> (    <strong>👆 👉 Homepages and examples for GitHub repositories. 👇<strong>)
+
+[comment]: <> (  </summary>)
+    
+<strong>👆 👉 Homepages and examples for GitHub repositories. 👇<strong>
+
+<br>
 
 | repositorie | homepage | language | stars | last commit | downloads |
   | --- | --- | --- | --- | --- | --- |
@@ -37,7 +43,8 @@
 | [vue-wallpaper](https://github.com/og-liu/vue-wallpaper) | - | [![GitHub top language](https://img.shields.io/github/languages/top/og-liu/vue-wallpaper?style=flat-square)](https://github.com/og-liu/vue-wallpaper) | [![GitHub stars](https://img.shields.io/github/stars/og-liu/vue-wallpaper?style=flat-square)](https://github.com/og-liu/vue-wallpaper/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/og-liu/vue-wallpaper?style=flat-square&amp;label=commit)](https://github.com/og-liu/vue-wallpaper/commits/main) | [![NPM downloads](https://img.shields.io/npm/dw/vue-wallpaper?style=flat-square&amp;label=npm)](https://www.npmjs.com/package/vue-wallpaper)
 | [easy-mock](https://github.com/og-liu/easy-mock) | [`home page`](https://mock.ogliu.com) | [![GitHub top language](https://img.shields.io/github/languages/top/og-liu/easy-mock?style=flat-square)](https://github.com/og-liu/easy-mock) | [![GitHub stars](https://img.shields.io/github/stars/og-liu/easy-mock?style=flat-square)](https://github.com/og-liu/easy-mock/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/og-liu/easy-mock?style=flat-square&amp;label=commit)](https://github.com/og-liu/easy-mock/commits/main) | -
 | [easy-mock-cli](https://github.com/og-liu/easy-mock-cli) | [`documentation`](http://mc.ogliu.com) | [![GitHub top language](https://img.shields.io/github/languages/top/og-liu/easy-mock-cli?style=flat-square)](https://github.com/og-liu/easy-mock-cli) | [![GitHub stars](https://img.shields.io/github/stars/og-liu/easy-mock-cli?style=flat-square)](https://github.com/og-liu/easy-mock-cli/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/og-liu/easy-mock-cli?style=flat-square&amp;label=commit)](https://github.com/og-liu/easy-mock-cli/commits/main) | [![NPM downloads](https://img.shields.io/npm/dw/easy-mock-cli?style=flat-square&amp;label=npm)](https://www.npmjs.com/package/easy-mock-cli)
-</details>
+
+[comment]: <> (</details>)
 
 ---
 
