@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/~og-liu">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total NPM DOWNLOAD & 1.5K-822?style=for-the-badge&labelColor=822&logo=npm" />
+    <img alt="npm download count" src="https://img.shields.io/badge/Total NPM DOWNLOAD & 5.2K-822?style=for-the-badge&labelColor=822&logo=npm" />
   </a>
 </p>
 
