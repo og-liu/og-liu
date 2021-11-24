@@ -18,8 +18,8 @@
     <img alt="Mock Data" src="https://img.shields.io/badge/mock data-ed4956?style=for-the-badge&logo=javascript&logoColor=ed4956&labelColor=24292e" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/og-liu?tab=repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/-repositories-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+  <a href="https://table.ogliu.com">
+    <img alt="TablePage Vuejs" src="https://img.shields.io/badge/-TablePage Vuejs-24292e?style=for-the-badge&labelColor=30363c&logoColor=FFF&logo=v" />
   </a>
 </p>
 
