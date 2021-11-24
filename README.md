@@ -4,28 +4,32 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/~og-liu">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-1.5K-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
+    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-1.5K-822?style=for-the-badge&labelColor=822&logo=npm" />
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://ogliu.com">
-    <img alt="Blog" src="https://img.shields.io/badge/ogliu.com & 个人博客-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=Blogger&logoColor=0088f5" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://mock.ogliu.com">
-    <img alt="Mock Data" src="https://img.shields.io/badge/mock data & 数据模拟-ed4956?style=for-the-badge&logo=The Movie Database&logoColor=ed4956&labelColor=24292e" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://table.ogliu.com">
-    <img alt="TablePage Vuejs" src="https://img.shields.io/badge/-TablePage & 表格页面组件-24292e?style=for-the-badge&labelColor=30363c&logoColor=FFF&logo=Elastic Stack" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://svg.ogliu.com">
     <img alt="TablePage Vuejs" src="https://img.shields.io/badge/-svg vuejs & svg组件-015a9c?style=for-the-badge&labelColor=015a9c&logoColor=FFF&logo=JustGiving" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://table.ogliu.com">
+    <img alt="TablePage Vuejs" src="https://img.shields.io/badge/-Table Page & 表格页面组件-399?style=for-the-badge&labelColor=399&logoColor=FFF&logo=Elastic Stack" />
+  <span>&nbsp;</span>
+  <a href="https://github.com/og-liu/vue-wallpaper">
+    <img alt="vue wallpaper" src="https://img.shields.io/badge/-wallpaper & 每日壁纸组件-d98706?style=for-the-badge&labelColor=d98706&logoColor=FFF&logo=Wattpad" />
+  </a>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ogliu.com">
+    <img alt="Blog" src="https://img.shields.io/badge/ogliu.com & 个人博客-0088f5?style=for-the-badge&labelColor=0088f5&logo=Blogger&logoColor=FFF" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://mock.ogliu.com">
+    <img alt="Mock Data" src="https://img.shields.io/badge/mock data & 数据模拟-ed4956?style=for-the-badge&logo=Reason Studios&logoColor=fff&labelColor=ed4956" />
   </a>
 </p>
 
